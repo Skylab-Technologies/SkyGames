@@ -1,0 +1,157 @@
+POLITIQUE DE CONFIDENTIALITE - SKYGAMES
+
+Derniere mise a jour : 17 mai 2026
+
+
+1. INTRODUCTION ET RESPONSABLE DU TRAITEMENT
+
+La presente Politique de confidentialite decrit la maniere dont l'application
+SkyGames (l'"Application") collecte, utilise et protege vos donnees
+personnelles.
+
+Le responsable du traitement est l'editeur de l'application SkyGames
+(personne physique), joignable a l'adresse : contact@skygames.ws
+
+L'Application etant distribuee dans le monde entier, l'editeur a choisi
+d'appliquer le Reglement General sur la Protection des Donnees (RGPD,
+UE 2016/679) comme socle de protection a l'ensemble des utilisateurs, ou
+qu'ils se trouvent, complete par les clauses internationales ci-dessous.
+
+
+2. DONNEES COLLECTEES
+
+2.1 Donnees d'identite (connexion Google)
+
+Lors de la connexion via Google, l'Application collecte : un identifiant
+unique (UID), votre nom d'affichage, votre adresse e-mail et l'URL de votre
+photo de profil.
+
+2.2 Preferences et profil
+
+Sont enregistres dans votre profil : le systeme de mesure choisi (metrique /
+imperial), votre rang, votre indice de securite (safety rating) et un
+indicateur de premiere utilisation.
+
+2.3 Feedback (facultatif)
+
+Si vous envoyez un retour via l'Application, sont transmis : votre message,
+la date, la version de l'application et la plateforme utilisee. Vous pouvez
+y joindre, de maniere facultative, des elements relatifs a un appareil
+FlySight : nom de l'appareil, fichier de trace (track), fichier de
+configuration et journaux (logs).
+
+2.4 Mesure d'audience (Firebase Analytics)
+
+L'Application transmet des evenements de mesure d'audience a Google Firebase
+Analytics : connexion, deconnexion, saut enregistre, casque Quest connecte,
+affichage d'ecran et envoi de feedback. Ces evenements servent a comprendre
+l'usage de l'Application et a l'ameliorer.
+
+2.5 Donnees stockees localement uniquement
+
+Les elements suivants restent stockes sur votre appareil et NE SONT PAS
+transmis au serveur : les enregistrements de sauts et de sessions, les
+donnees de geolocalisation (GPS) associees, les journaux et fichiers de
+configuration FlySight, ainsi que les journaux de connexion au casque Quest.
+
+
+3. FINALITES ET BASES LEGALES
+
+  - Fourniture et fonctionnement de l'Application, gestion du compte :
+    execution du service (contrat).
+  - Mesure d'audience et envoi de feedback : votre consentement.
+  - Amelioration de l'Application et securite : interet legitime de
+    l'editeur.
+
+Lorsque le traitement repose sur le consentement, vous pouvez le retirer a
+tout moment ; ce retrait ne remet pas en cause la liceite du traitement
+effectue auparavant.
+
+
+4. HEBERGEMENT ET TRANSFERTS INTERNATIONAUX
+
+Vos donnees de compte, de profil et de feedback sont hebergees par Google
+Firebase (Firestore, Firebase Authentication, Firebase Analytics). Cette
+infrastructure est mondiale et peut entrainer un traitement de vos donnees
+en dehors de votre pays de residence, notamment aux Etats-Unis.
+
+Si vous utilisez l'Application depuis un pays situe hors de l'Union
+europeenne, vos donnees sont neanmoins traitees selon le socle RGPD decrit
+dans la presente politique. Les transferts vers Google reposent sur les
+garanties contractuelles mises en place par ce prestataire.
+
+
+5. DUREE DE CONSERVATION
+
+Les donnees de compte et de profil sont conservees tant que votre compte
+existe. La suppression de votre compte entraine la suppression de ces
+donnees. Les messages de feedback sont conserves le temps necessaire a leur
+traitement et au suivi des demandes.
+
+
+6. DESTINATAIRES ET SOUS-TRAITANTS
+
+Le principal sous-traitant est Google / Firebase, qui heberge et traite les
+donnees pour le compte de l'editeur. En dehors de ce prestataire, vos donnees
+ne font l'objet d'aucun partage avec des tiers, et ne sont ni vendues ni
+louees.
+
+
+7. VOS DROITS
+
+Conformement au RGPD (socle applicable a tous les utilisateurs), vous
+disposez des droits suivants : acces, rectification, effacement, opposition,
+limitation, portabilite, et retrait du consentement.
+
+Vous pouvez exercer ces droits :
+
+  - en ecrivant a : contact@skygames.ws ;
+  - en supprimant votre compte directement dans l'Application, ce qui efface
+    le document de profil correspondant.
+
+Une reponse vous sera apportee dans les delais prevus par la reglementation
+applicable.
+
+
+8. RESIDENTS DE CALIFORNIE (CCPA / CPRA)
+
+L'editeur NE VEND PAS et NE "PARTAGE" PAS vos donnees personnelles au sens du
+California Consumer Privacy Act (CCPA/CPRA). Les residents de Californie
+disposent de droits d'acces et de suppression equivalents a ceux decrits a
+la section 7, exercables a la meme adresse de contact.
+
+
+9. SECURITE
+
+Les communications avec le serveur sont chiffrees et l'acces aux donnees est
+restreint. Les eventuels jetons d'authentification sont stockes de maniere
+securisee sur votre appareil. Toutefois, aucune methode de transmission ou
+de stockage n'est totalement infaillible ; une securite absolue ne peut etre
+garantie.
+
+
+10. MINEURS
+
+L'Application n'est pas destinee aux personnes n'ayant pas atteint l'age du
+consentement numerique applicable dans leur pays de residence (selon les
+juridictions, de 13 a 16 ans). L'editeur ne collecte pas sciemment de
+donnees relatives a de telles personnes. Si vous estimez qu'un mineur a
+fourni des donnees, contactez l'editeur afin qu'elles soient supprimees.
+
+
+11. MODIFICATIONS DE LA POLITIQUE
+
+La presente politique peut etre modifiee. Toute modification est signalee
+par la mise a jour de la date figurant en tete du document. La poursuite de
+l'utilisation de l'Application apres modification vaut prise de connaissance
+de la politique mise a jour.
+
+
+12. CONTACT ET RECLAMATION
+
+Pour toute question relative a la presente politique ou a vos donnees :
+contact@skygames.ws
+
+Vous disposez du droit d'introduire une reclamation aupres de la Commission
+Nationale de l'Informatique et des Libertes (CNIL, France) ou de l'autorite
+de protection des donnees competente de votre pays de residence.

@@ -1,0 +1,156 @@
+TERMS OF SERVICE - SKYGAMES
+
+Last updated: May 17, 2026
+
+
+1. PURPOSE AND ACCEPTANCE
+
+These Terms of Use (the "Terms") govern the use of the SkyGames mobile and
+software application (the "Application").
+
+By downloading, installing or using the Application, you acknowledge that you
+have read, understood and unreservedly accepted these Terms. If you do not
+accept these Terms, do not use the Application.
+
+
+2. DESCRIPTION OF THE SERVICE
+
+SkyGames is a tool designed to assist with skydiving and wingsuit flying. The
+Application notably allows you to:
+
+  - connect to a FlySight device over Bluetooth (BLE) in order to read and
+    configure the device and make use of its flight data;
+  - communicate with a Meta Quest 3 virtual reality headset to transfer and
+    visualize flight data;
+  - record, review and analyze jumps and training sessions.
+
+The Application is an informational and educational tool. It is not jump
+equipment and is not a safety device.
+
+
+3. USER ACCOUNT
+
+Use of the Application requires creating an account through a Google sign-in
+(Firebase Authentication service). You are responsible for keeping your
+credentials confidential and for all activity carried out from your account.
+You agree to provide accurate information and to keep it up to date.
+
+
+4. SAFETY WARNING - SKYDIVING AND WINGSUIT
+
+READ THIS SECTION CAREFULLY.
+
+Skydiving, BASE jumping and wingsuit flying are inherently dangerous
+activities that may result in serious injury or death.
+
+The Application is for informational purposes only. IT IN NO WAY REPLACES:
+
+  - an altimeter or any approved measuring instrument;
+  - training delivered by a qualified organization;
+  - the personal judgment, experience and vigilance of the practitioner;
+  - the applicable safety procedures and rules.
+
+No component of the Application is a certified safety device. The data
+displayed may be incomplete, delayed, inaccurate or unavailable. You must
+never base a safety decision solely on the information provided by the
+Application.
+
+You remain solely and entirely responsible for your jumps, your decisions and
+your compliance with applicable regulations. By using the Application, you
+acknowledge and accept these risks.
+
+
+5. ACCEPTABLE USE
+
+You agree to use the Application in a personal, lawful manner consistent with
+its intended purpose. In particular, you must not:
+
+  - divert the Application from its intended use;
+  - attempt to decompile, disassemble or reverse-engineer it, except to the
+    extent permitted by law;
+  - impair the integrity, security or availability of the service or its
+    systems;
+  - use the Application for unlawful purposes or in a way that infringes the
+    rights of third parties.
+
+
+6. INTELLECTUAL PROPERTY
+
+The Application, its code, its interface, its graphics and all of its content
+remain the exclusive property of the publisher or its licensors. You are
+granted a personal, non-exclusive, non-transferable and revocable license to
+use the Application in accordance with these Terms, limited to such use. No
+transfer of intellectual property rights is granted.
+
+
+7. AVAILABILITY AND CHANGES
+
+The Application is under active development. The publisher may, at any time
+and without notice, modify, suspend, limit or discontinue all or part of the
+Application, add or remove features, or change data formats. No guarantee of
+continuity, availability or backward compatibility is provided.
+
+
+8. LIABILITY AND WARRANTIES
+
+The Application is provided "as is" and "as available", without warranty of
+any kind, express or implied, including as to fitness for a particular
+purpose, accuracy or freedom from error.
+
+To the fullest extent permitted by applicable law, the publisher shall not be
+liable for any direct or indirect damages arising from the use of, or
+inability to use, the Application, in particular any decision made on the
+basis of the information it provides.
+
+Nothing in these Terms operates to exclude or limit the publisher's liability
+where applicable law prohibits doing so.
+
+
+9. THIRD-PARTY SERVICES
+
+The Application relies on third-party services and hardware, in particular:
+
+  - Google (Google sign-in and Firebase services);
+  - Meta Quest headsets;
+  - FlySight devices.
+
+Use of these services and hardware is subject to the terms and policies of
+their respective providers, over which the publisher has no control.
+
+
+10. PERSONAL DATA
+
+The Application collects and processes personal data. The terms of such
+processing, the purposes, the recipients and the rights available to you are
+described in the Privacy Policy, which forms an integral part of these Terms.
+
+
+11. CHANGES TO THE TERMS
+
+The publisher may modify these Terms at any time. The applicable version is
+the one in force at the time you use the Application. Changes take effect upon
+publication. Continued use of the Application after a change constitutes
+acceptance of the updated Terms.
+
+
+12. GOVERNING LAW AND DISPUTES
+
+These Terms are governed by French law. Any dispute relating to their
+interpretation or performance falls within the jurisdiction of the French
+courts.
+
+If you are a consumer residing outside France, you additionally benefit from
+the mandatory consumer-protection provisions in force in your country of
+residence, from which these Terms may not derogate.
+
+
+13. LEGAL NOTICE AND CONTACT
+
+Publisher: the publisher of the SkyGames application (natural person).
+Contact: contact@skygames.ws
+
+Data hosting: Google Firebase (Google LLC / Google Ireland Limited), Google
+cloud infrastructure.
+
+For any question regarding these Terms, you may write to the contact address
+above.

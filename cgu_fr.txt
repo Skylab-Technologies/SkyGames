@@ -1,0 +1,166 @@
+CONDITIONS GENERALES D'UTILISATION - SKYGAMES
+
+Derniere mise a jour : 17 mai 2026
+
+
+1. OBJET ET ACCEPTATION
+
+Les presentes Conditions Generales d'Utilisation (les "CGU") regissent
+l'utilisation de l'application mobile et logicielle SkyGames (l'"Application").
+
+En telechargeant, installant ou utilisant l'Application, vous reconnaissez
+avoir lu, compris et accepte sans reserve les presentes CGU. Si vous
+n'acceptez pas ces conditions, n'utilisez pas l'Application.
+
+
+2. DESCRIPTION DU SERVICE
+
+SkyGames est un outil d'aide a la pratique du parachutisme et du vol en
+combinaison ailee (wingsuit). L'Application permet notamment :
+
+  - de se connecter a un appareil FlySight via Bluetooth (BLE) afin de lire
+    et configurer l'appareil et d'exploiter ses donnees de vol ;
+  - de communiquer avec un casque de realite virtuelle Meta Quest 3 pour
+    transferer et visualiser des donnees de vol ;
+  - d'enregistrer, de consulter et d'analyser des sauts et des sessions
+    d'entrainement.
+
+L'Application est un outil informatif et pedagogique. Elle ne constitue pas
+un equipement de saut ni un dispositif de securite.
+
+
+3. COMPTE UTILISATEUR
+
+L'utilisation de l'Application necessite la creation d'un compte via une
+connexion Google (service Firebase Authentication). Vous etes responsable de
+la confidentialite de vos identifiants et de toute activite effectuee depuis
+votre compte. Vous vous engagez a fournir des informations exactes et a les
+maintenir a jour.
+
+
+4. AVERTISSEMENT DE SECURITE - PARACHUTISME ET WINGSUIT
+
+LISEZ ATTENTIVEMENT CETTE SECTION.
+
+Le parachutisme, le BASE jump et le vol en wingsuit sont des activites
+intrinsequement dangereuses pouvant entrainer des blessures graves ou la
+mort.
+
+L'Application est une aide informative uniquement. Elle NE REMPLACE EN AUCUN
+CAS :
+
+  - un altimetre ou tout instrument de mesure homologue ;
+  - une formation dispensee par un organisme qualifie ;
+  - le jugement personnel, l'experience et la vigilance du pratiquant ;
+  - les procedures et regles de securite applicables.
+
+Aucun composant de l'Application n'est un dispositif de securite certifie. Les
+donnees affichees peuvent etre incompletes, retardees, inexactes ou
+indisponibles. Vous ne devez jamais fonder une decision de securite sur les
+seules informations fournies par l'Application.
+
+Vous demeurez seul et entierement responsable de vos sauts, de vos decisions
+et du respect des reglementations en vigueur. En utilisant l'Application, vous
+reconnaissez et acceptez ces risques.
+
+
+5. UTILISATION CONFORME
+
+Vous vous engagez a utiliser l'Application de maniere personnelle, licite et
+conforme a sa destination. Il vous est notamment interdit :
+
+  - de detourner l'Application de son usage prevu ;
+  - de tenter de la decompiler, de la desassembler ou d'en faire de la
+    retro-ingenierie, sauf dans les limites permises par la loi ;
+  - de porter atteinte a l'integrite, a la securite ou a la disponibilite du
+    service ou de ses systemes ;
+  - d'utiliser l'Application a des fins illicites ou portant atteinte aux
+    droits de tiers.
+
+
+6. PROPRIETE INTELLECTUELLE
+
+L'Application, son code, son interface, ses graphismes et l'ensemble de ses
+contenus restent la propriete exclusive de l'editeur ou de ses concedants.
+Il vous est octroye une licence d'utilisation personnelle, non exclusive,
+non transferable et revocable, limitee a l'usage de l'Application conforme
+aux presentes CGU. Aucune cession de droit de propriete intellectuelle n'est
+consentie.
+
+
+7. DISPONIBILITE ET EVOLUTIONS
+
+L'Application est en developpement actif. L'editeur peut, a tout moment et
+sans preavis, modifier, suspendre, limiter ou interrompre tout ou partie de
+l'Application, ajouter ou retirer des fonctionnalites, ou modifier les
+formats de donnees. Aucune garantie de continuite, de disponibilite ou de
+compatibilite ascendante n'est fournie.
+
+
+8. RESPONSABILITE ET GARANTIES
+
+L'Application est fournie "en l'etat" et "selon disponibilite", sans garantie
+d'aucune sorte, expresse ou implicite, notamment d'adequation a un usage
+particulier, d'exactitude ou d'absence d'erreur.
+
+Dans toute la mesure permise par la loi applicable, l'editeur ne saurait etre
+tenu responsable des dommages directs ou indirects resultant de
+l'utilisation ou de l'impossibilite d'utiliser l'Application, en particulier
+de toute decision prise sur la base des informations qu'elle fournit.
+
+Aucune stipulation des presentes CGU n'a pour effet d'exclure ou de limiter
+la responsabilite de l'editeur lorsque la loi applicable l'interdit.
+
+
+9. SERVICES TIERS
+
+L'Application s'appuie sur des services et materiels tiers, notamment :
+
+  - Google (connexion Google et services Firebase) ;
+  - les casques Meta Quest ;
+  - les appareils FlySight.
+
+L'utilisation de ces services et materiels est soumise aux conditions et
+politiques propres a leurs fournisseurs respectifs, sur lesquels l'editeur
+n'exerce aucun controle.
+
+
+10. DONNEES PERSONNELLES
+
+L'Application collecte et traite des donnees personnelles. Les modalites de
+ce traitement, les finalites, les destinataires et les droits dont vous
+disposez sont decrits dans la Politique de confidentialite, qui fait partie
+integrante des presentes CGU.
+
+
+11. MODIFICATION DES CGU
+
+L'editeur peut modifier les presentes CGU a tout moment. La version
+applicable est celle en vigueur au moment de votre utilisation de
+l'Application. Les modifications prennent effet des leur publication. La
+poursuite de l'utilisation de l'Application apres modification vaut
+acceptation des CGU mises a jour.
+
+
+12. DROIT APPLICABLE ET LITIGES
+
+Les presentes CGU sont regies par le droit francais. Tout litige relatif a
+leur interpretation ou a leur execution releve de la competence des
+tribunaux francais.
+
+Si vous etes un consommateur residant hors de France, vous beneficiez en
+outre des dispositions imperatives de protection des consommateurs en
+vigueur dans votre pays de residence, auxquelles les presentes CGU ne
+sauraient deroger.
+
+
+13. MENTIONS LEGALES ET CONTACT
+
+Editeur : l'editeur de l'application SkyGames (personne physique).
+Contact : contact@skygames.ws
+
+Hebergement des donnees : Google Firebase (Google LLC / Google Ireland
+Limited), infrastructure cloud Google.
+
+Pour toute question relative aux presentes CGU, vous pouvez ecrire a
+l'adresse de contact ci-dessus.
